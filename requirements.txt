@@ -1,0 +1,4 @@
+ollama
+networkx
+matplotlib
+graphviz
