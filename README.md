@@ -73,7 +73,7 @@ pip install -r requirements.txt
 Run the main debate script:
 
 ```bash
-python run_debate.py
+python debate.py
 ```
 
 Debate logs will be saved (once logging is implemented) for review and analysis.
